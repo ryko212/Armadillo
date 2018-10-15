@@ -1,2 +1,2 @@
 # Armadillo
-Layer approach to portable security.
+A layered approach to portable security.
