@@ -10,7 +10,10 @@ A layered approach to portable security.
         1. Pi 3+
     1. Case/Rack
         1. 3d Printed
-            1. 
+            1. https://www.thingiverse.com/thing:2795195 
+            1. Several other options
+                1. Search thingiverse.com
+                
 1. Configurate stuff
     1. 
 1. Testing
