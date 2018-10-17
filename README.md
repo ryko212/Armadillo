@@ -30,6 +30,12 @@ A layered approach to portable security.
         1. https://wiki.openwrt.org/toh/nexx/wt3020
         1. Things to watch out for:
             1. 
-1. Testing
+            
+    1. Configure Network Firewall Rules
+        1. Uncheck all rules except for "Allow DHCP on WAN."
+        1. IPTables
+        
+    1. Install Raspian
+    1. Install SMB
+    1. Install Plex
 1. Employment
-
