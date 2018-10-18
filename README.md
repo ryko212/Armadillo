@@ -36,13 +36,17 @@ A layered approach to portable security.
     1. Power
         1. USB power supply
             1. Consierations
-                1. Pi pulls over 2A
+                1. Power consumption with everything running
+                    1. Pi ~2A
+                    1. Nexx 3020F ~0.5A
+                    1. Diewu Switch ~0.5A
                 1. Number of usb ports
-                
+                    1. usb port for each device
     1. Support equipment
         1. Ethernet cables
+        1. Micro usb cable/device
                 
-1. Configurate stuff
+1. Configure stuff
     1. Install DDWRT
         1. https://wiki.openwrt.org/toh/nexx/wt3020
         1. Things to watch out for:
