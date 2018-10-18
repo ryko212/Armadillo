@@ -1,6 +1,23 @@
 # Armadillo
 A layered approach to portable security.
 
+1. Threat References:
+    1. https://www.eff.org/deeplinks/2017/08/how-captive-portals-interfere-wireless-security-and-privacy
+    1. https://www.consumer.ftc.gov/blog/2015/02/hotel-wi-fi-weigh-risk
+    1. https://www.wired.com/story/russian-spies-indictment-hotel-wi-fi-hacking/ 
+    1. https://www.independent.co.uk/travel/news-and-advice/travel-website-hackers-cyber-crime-phishing-holidays-a8382771.html 
+    1. https://www.theregister.co.uk/2014/08/04/hotel_booking_phish/ 
+    1. https://www.wired.com/story/fancy-bear-hotel-hack/
+    1. https://www.consumer.ftc.gov/blog/2015/02/hotel-wi-fi-weigh-risk
+    1. https://www.bbb.org/northern-alabama/news-events/news-releases/2017/07/hackers-target-hotel-wi-fi/
+
+1. Mitigations that Armadillo provides:
+    1. Does:
+        1. Prevent scanning
+        1. Allow users to selectively filter traffice
+    1. Does not:
+        1. Prevent MITM
+        1. Prevent traffic capture/examination
 1. Get stuff
     1. Router
         1. Nexx 3020F
